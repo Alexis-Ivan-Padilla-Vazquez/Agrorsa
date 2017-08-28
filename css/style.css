@@ -274,6 +274,7 @@ section {
 .preloader { 
   background-color:#ffffff; 
   background-image:url("../images/preloader.gif"); 
+  background-size: 250px 250px;
   background-position:center center; 
   background-repeat:no-repeat; 
   height:100%; 
@@ -387,6 +388,10 @@ form.ulockd-reg-form {
 .ulockd-ohour-info.style2 .ulockd-icon {
   margin-top: 25px;
 }
+.ulockd-ohour-info.style2 .ulockd-icon img{
+  width: 40px;
+  color: #42390C !important;
+}
 .ulockd-ohour-info .ulockd-icon {
   font-size: 26px;
   line-height: 1.4em;
@@ -412,7 +417,7 @@ form.ulockd-reg-form {
 }
 .ulockd-cell,
 .ulockd-addrss {
-  color: #555;
+  color: #42390C;
   font-family: 'Montserrat', sans-serif;
 }
 .main-header-nav{
@@ -584,7 +589,7 @@ nav.navbar.bootsnav.menu-style1 ul.dropdown-menu.megamenu-content .content ul.me
   padding-left: 10px;
 }
 .navbar-brand{
-  padding: 3px;
+  padding: 10px;
 }
 .attr-nav > ul > li > a{
   color: #fff;
@@ -1122,8 +1127,8 @@ transition: all 0.3s ease-in-out;
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
-  padding-top: 900px;
-  padding-bottom: 100px;
+  /*padding-top: 900px;*/
+  padding-bottom: 500px;
   z-index: 1;
 }
 
@@ -1143,6 +1148,22 @@ transition: all 0.3s ease-in-out;
   color: #fff; 
   font-size: 28px;
 }
+
+@media only screen and (max-width:991px){
+  .ulockd-service-two2 {
+
+     background-image: url("../images/cantona/fondo para versión móvil de instalaciones.png");
+    background-position: top;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    overflow-x: hidden;
+    padding-top: 200px;
+    position: relative;
+  }
+  }
 .ulockd-service-two3 {
   background-attachment: scroll !important;
   background-color: transparent;
@@ -1153,8 +1174,8 @@ transition: all 0.3s ease-in-out;
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
-  padding-top: 900px;
-  padding-bottom: 100px;
+  /*padding-top: 900px;*/
+  padding-bottom: 500px;
   z-index: 1;
 }
 
@@ -1168,8 +1189,8 @@ transition: all 0.3s ease-in-out;
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
-  padding-top: 900px;
-  padding-bottom: 100px;
+  /*padding-top: 900px;*/
+  padding-bottom: 500px;
   z-index: 1;
 }
 
@@ -1907,7 +1928,7 @@ article.ulockd-pd-content {
   overflow: hidden;
 }
 .ulockd-fservice-box .db-overlayer {
-  border: 1px solid #fff;
+  /*border: 1px solid #fff;*/
   bottom: 0;
   left: 0;
   padding-top: 27%;
@@ -1989,7 +2010,7 @@ article.ulockd-pd-content {
   border: 1px solid #fff;
   bottom: 0;
   left: 0;
-  padding-top: 45%;
+  padding-top: 50%;
   position: absolute;
   right: 0;
   text-align: center;
@@ -2598,19 +2619,13 @@ article.ulockd-pd-content {
 }
 
 .team-thumb img {
- border: .1px solid #42390C; /* Color del borde, debe ser más oscuro que fondo */
+
 
 border-radius: 6px;  /* Bordes redondos */
-box-shadow: inset 3px 3px 3px rgba(255,255,255,.7), inset -2px -2px 3px rgba(0,0,0,.1), 2px 2px 10px rgba(0,0,0,.1);
+
 }
 /* team One */
-.team-thumb:hover img {
- scale(1.5);
--moz-transform: scale(1.5);
--o-transform: scale(1.5);
--ms-transform: scale(1.5);
-transform: scale(1.5)
-}
+
 
 .team-details {
   padding: 20px;
@@ -3426,99 +3441,144 @@ h5.back-title {
   -o-background-size: cover;
   background-size: cover;
   overflow-x: hidden;
-  padding-top: 100px;
+  padding-top: 200px;
   position: relative;
 }
 .ulockd-inner-home2 {
   background-attachment: fixed ;
   background-image: url("../images/background/E3.jpg");
-  background-position: all;
+  background-position:  top;
   background-repeat: no-repeat;
-  background-size:;
-  padding-top: 100px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  overflow-x: hidden;
+  padding-top: 200px;
+  position: relative;
 
+}
+@media only screen and (width:1024px ){
+ .ulockd-inner-home2 {
+   background-attachment: scroll ;
+  }
 }
 .ulockd-inner-home3 {
   background-attachment: fixed ;
   background-image: url("../images/background/F.jpg");
-  background-position: all;
+  background-position:  top;
   background-repeat: no-repeat;
-  background-size:;
-  padding-top: 100px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  overflow-x: hidden;
+  padding-top: 200px;
+  position: relative;
 
 }
 .ulockd-inner-home4 {
   background-attachment: fixed ;
   background-image: url("../images/background/E2.jpg");
-  background-position: all;
+ background-position:  top;
   background-repeat: no-repeat;
-  background-size:;
-  padding-top: 100px;
-
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  overflow-x: hidden;
+  padding-top: 200px;
+  position: relative;
 }
 .ulockd-inner-home5 {
   background-attachment: fixed ;
   background-image: url("../images/background/E1.jpg");
-  background-position: all;
+  background-position:  top;
   background-repeat: no-repeat;
-  background-size:;
-  padding-top: 100px;
- width: 1920px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  overflow-x: hidden;
+  padding-top: 200px;
+  position: relative;
+ 
 }
-@media only screen and (max-width: 2000px){
-    .ulockd-inner-home5 {
-      width: 1920px;
-}
+
+
 
 .ulockd-inner-home6 {
   background-attachment: fixed ;
   background-image: url("../images/productos/abonos/A.jpg");
-  background-position: all;
+  background-position:  top;
   background-repeat: no-repeat;
-  background-size:;
-  padding-top: 100px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  overflow-x: hidden;
+  padding-top: 200px;
+  position: relative;
 
 }
 .ulockd-inner-home7 {
   background-attachment: fixed ;
   background-image: url("../images/productos/maiz/B.jpg");
-  background-position: all;
+  background-position:  top;
   background-repeat: no-repeat;
-  background-size:;
-  padding-top: 100px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  overflow-x: hidden;
+  padding-top: 200px;
+  position: relative;
 
 }
 .ulockd-inner-home8 {
   background-attachment: fixed ;
   background-image: url("../images/productos/materias/C.jpg");
-  background-position: all;
+  background-position:  top;
   background-repeat: no-repeat;
-  background-size:;
-  padding-top: 100px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  overflow-x: hidden;
+  padding-top: 200px;
+  position: relative;
 
 }
 .ulockd-inner-home9 {
   background-attachment: fixed ;
   background-image: url("../images/productos/alimentos/D2.jpg");
-  background-position: all;
+ background-position:  top;
   background-repeat: no-repeat;
-  background-size:;
-  padding-top: 100px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  overflow-x: hidden;
+  padding-top: 200px;
+  position: relative;
 
 }
 .ulockd-inner-home10 {
   background-attachment: fixed ;
   background-image: url("../images/productos/alimentos/D1.jpg");
-  background-position: all;
+  background-position:  top;
   background-repeat: no-repeat;
-  background-size:;
-  padding-top: 100px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  overflow-x: hidden;
+  padding-top: 200px;
+  position: relative;
 
 }
-.ulockd-icd-layer {
-  width: 100%;
-}
-}
+
+
 .ulockd-icd-layer {
   margin-top: 100px;
   padding-bottom: 20px;

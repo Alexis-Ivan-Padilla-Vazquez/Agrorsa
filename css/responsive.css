@@ -18,7 +18,8 @@
  }
 /* (min-width:992px) (max-width:1199px) */
 @media only screen and (max-width:1199px){
-	.ulockd-main-logo2 > img {margin-top: 0;}
+	.ulockd-main-logo2 > img {    margin-top: 67px;
+    width: 20%;}
 	nav.navbar.bootsnav.menu-style1 ul.nav > li > a {padding: 30px 8px;}
 	.ulockd-quote-btn a {padding: 10px 30px;}
 	nav.navbar.bootsnav .navbar-toggle {background-color: transparent; color: #fff;}
@@ -93,7 +94,8 @@
 	.welcm-ht-two {text-align: center;}
 	.ulockd-login-form {margin-bottom: 25px;}
 	.social-linked-two{float: none !important;margin-bottom: 10px;text-align: center;}
-	.ulockd-main-logo > img, .ulockd-main-logo2 > img {margin-top: 15px;}
+	.ulockd-main-logo > img, .ulockd-main-logo2 > img {margin-top: 15px; margin-left: 1px; max-width: 50%;}
+	.ulockd-main-logo2 > img, .ulockd-main-logo2 > img {margin-top: 15px; margin-left: 180px;}
 	/* Home responsibe style Start*/
 	/* home slider end */
 	/* Home responsibe style Start*/
@@ -102,7 +104,8 @@
 	.ulockd-main-slider2 .ulockd-slider-text3{margin-top: 10px;}
 	/* home slider end */
 	/* Navbar responsibe style Start*/
-	.navbar-brand .logo {height: 37px;margin-top: 0px;}
+	.navbar-brand .logo {height: 37px;margin-top: 15px; width: 40%; 
+   }
 	nav.navbar.bootsnav.menu-style1 .navbar-toggle{background-color: transparent;color: #fff;}
 	nav.navbar.bootsnav .navbar-header.ulockd-ltwo .navbar-toggle{background-color: transparent;color: #fff;}
 	nav.navbar.bootsnav ul.nav li.dropdown ul.dropdown-menu > li > a{color: #fff;font-family: 'Montserrat', sans-serif;}
@@ -189,8 +192,8 @@
     .ulockd-booking-form {padding: 50px 20px;}
     .team-details {padding: 10px 10px 15px;}
     .team-icon a {display: flex;}
-    .ulockd-footer-qlink {margin-bottom: 50px;}
-    .ulockd-footer-fst-col {margin-bottom: 25px;}
+    .ulockd-footer-qlink {margin-bottom: -50px;}
+    .ulockd-footer-fst-col {margin-bottom: -65px;}
 }
 /* (min-width:361px) (max-width:520px) */
 @media only screen and (max-width:520px){
