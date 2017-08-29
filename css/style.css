@@ -1133,7 +1133,7 @@ transition: all 0.3s ease-in-out;
 }
 
 .ulockd-service-two2 {
-  background-attachment: scroll !important;
+  background-attachment: scroll ;
   background-color: transparent;
   background-image: url("../images/cantona/fondo para version pc de instalaciones.png");
   -webkit-background-size: cover;
@@ -1161,9 +1161,15 @@ transition: all 0.3s ease-in-out;
     background-size: cover;
     overflow-x: hidden;
     padding-top: 200px;
+    background-attachment: fixed;
     position: relative;
   }
   }
+  @media only screen and (max-width:991px){
+  .ulockd-service-two2 {
+     background-attachment: fixed ;
+  }
+}
 .ulockd-service-two3 {
   background-attachment: scroll !important;
   background-color: transparent;
@@ -3444,6 +3450,13 @@ h5.back-title {
   padding-top: 200px;
   position: relative;
 }
+@media only screen and (max-width:1024px ){
+ .ulockd-inner-home {
+      display: block;
+    max-width: 100%;
+    height: auto;
+  }
+}
 .ulockd-inner-home2 {
   background-attachment: fixed ;
   background-image: url("../images/background/E3.jpg");
@@ -3458,7 +3471,8 @@ h5.back-title {
   position: relative;
 
 }
-@media only screen and (width:1024px ){
+
+@media only screen and (max-width:1024px ){
  .ulockd-inner-home2 {
    background-attachment: scroll ;
   }
@@ -3477,6 +3491,15 @@ h5.back-title {
   position: relative;
 
 }
+
+@media only screen and (max-width:1024px ){
+ .ulockd-inner-home3 {
+      display: block;
+    width: 100%;
+    height: auto;
+    background-attachment: scroll ;
+  }
+}
 .ulockd-inner-home4 {
   background-attachment: fixed ;
   background-image: url("../images/background/E2.jpg");
@@ -3489,6 +3512,14 @@ h5.back-title {
   overflow-x: hidden;
   padding-top: 200px;
   position: relative;
+}
+@media only screen and (max-width:1024px ){
+ .ulockd-inner-home4 {
+      display: block;
+    width: 100%;
+    height: auto;
+    background-attachment: scroll ;
+  }
 }
 .ulockd-inner-home5 {
   background-attachment: fixed ;
@@ -3503,6 +3534,14 @@ h5.back-title {
   padding-top: 200px;
   position: relative;
  
+}
+@media only screen and (max-width:1024px ){
+ .ulockd-inner-home5 {
+      display: block;
+    width: 100%;
+    height: auto;
+    background-attachment: scroll ;
+  }
 }
 
 
@@ -3521,6 +3560,15 @@ h5.back-title {
   position: relative;
 
 }
+@media only screen and (max-width:1024px ){
+ .ulockd-inner-home6 {
+      display: block;
+    width: 100%;
+    height: auto;
+    background-attachment: scroll ;
+  }
+}
+
 .ulockd-inner-home7 {
   background-attachment: fixed ;
   background-image: url("../images/productos/maiz/B.jpg");
@@ -3535,6 +3583,15 @@ h5.back-title {
   position: relative;
 
 }
+@media only screen and (max-width:1024px ){
+ .ulockd-inner-home7 {
+      display: block;
+    width: 100%;
+    height: auto;
+    background-attachment: scroll ;
+  }
+}
+
 .ulockd-inner-home8 {
   background-attachment: fixed ;
   background-image: url("../images/productos/materias/C.jpg");
@@ -3549,6 +3606,15 @@ h5.back-title {
   position: relative;
 
 }
+@media only screen and (max-width:1024px ){
+ .ulockd-inner-home8 {
+      display: block;
+    width: 100%;
+    height: auto;
+    background-attachment: scroll ;
+  }
+}
+
 .ulockd-inner-home9 {
   background-attachment: fixed ;
   background-image: url("../images/productos/alimentos/D2.jpg");
@@ -3563,6 +3629,15 @@ h5.back-title {
   position: relative;
 
 }
+@media only screen and (max-width:1024px ){
+ .ulockd-inner-home9 {
+      display: block;
+    width: 100%;
+    height: auto;
+    background-attachment: scroll ;
+  }
+}
+
 .ulockd-inner-home10 {
   background-attachment: fixed ;
   background-image: url("../images/productos/alimentos/D1.jpg");
@@ -3577,6 +3652,15 @@ h5.back-title {
   position: relative;
 
 }
+@media only screen and (max-width:1024px ){
+ .ulockd-inner-home10 {
+      display: block;
+    width: 100%;
+    height: auto;
+    background-attachment: scroll ;
+  }
+}
+
 
 
 .ulockd-icd-layer {
