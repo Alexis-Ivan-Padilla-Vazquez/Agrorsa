@@ -174,19 +174,24 @@ h5 {
   width: 65% !important;
 }
 .img-whp2 {
-  width: 1000px;
-  height: 220px;
+  width: auto;
+  height: auto;
    background-repeat: no-repeat;
     background-position: 50%;
-    border-radius: 50%;
     background-size: 100% auto;
 
 }
 .img-whp3 {
-  width: 1000px;
-  height: 390px;
+  width: auto;
+  height: auto;
  
 }
+@media only screen and (max-width:991px){
+  .img-whp3 {
+width: auto;
+height: auto;
+}
+  }
 .color-white {
   color: #fff !important;
 }
@@ -824,6 +829,7 @@ transition: all 0.3s ease-in-out;
 .about-box2 {
   box-shadow: 0 6px 10px -2px #42390C;
   margin: 5px;
+
   /*-webkit-box-shadow: 0 2px 4px -2px  #42390C;
   -moz-box-shadow: 0 6px 10px -2px #42390C;
   -o-box-shadow: 0 6px 10px -2px #42390C*/
@@ -839,7 +845,19 @@ transition: all 0.3s ease-in-out;
 .ab-details2 {
   background-color: #ded4b5;
   padding: 10px 15px 0;
+  padding-bottom: 28px;
 }
+@media only screen and (max-width:991px){
+.ab-details2 {
+    height: 200px;
+}
+}
+@media only screen and (width:1024px){
+.ab-details2 {
+    height: 330px;
+}
+}
+
 .ulockd-testimonial-divider {
   background-attachment: fixed !important;
   background-color: transparent;
@@ -2016,7 +2034,7 @@ article.ulockd-pd-content {
   border: 1px solid #fff;
   bottom: 0;
   left: 0;
-  padding-top: 50%;
+  padding-top: 70%;
   position: absolute;
   right: 0;
   text-align: center;
@@ -3216,7 +3234,20 @@ h5.back-title {
   padding-bottom: 60px;
   padding-top: 60px;
 }
-
+.ulockd-footer2 {
+        background: url(../images/productos/alimentos/cerdos/PAGINA.png) no-repeat fixed left;
+  /*height: 600px; */
+ background-size: cover;
+  width: auto;
+ 
+}
+.ulockd-footer3 {
+        background: url(../images/productos/alimentos/rumiantes/rumiantes.png) no-repeat fixed center;
+  /*height: 600px; */
+ background-size: cover;
+  width: auto;
+}
+/*
 /* ---------- FOOTER SECTION  ---------- */
 .ulockd-footer {
         background: url(../images/fservice/pie.png) no-repeat fixed center;
@@ -3224,7 +3255,6 @@ h5.back-title {
  background-size: cover;
   /*width: 1910px;*/
 }
-
 
 /*@media only screen and (max-width: 768px){
     .ulockd-footer {
@@ -4393,16 +4423,17 @@ table.table.ulockd-two h3 {
 .page_content_quote_productos_abonos{
     background: #d1c78d;
     background-size: cover;
-    padding: 100px 0;
+    padding: 50px 0;
   
 }
 
 .page_content_quote_productos_abonos h3{
     font-family: 'Open Sans', sans-serif;
-    color: #232323;
+    color: #42390C;
     line-height: 80px;
-    margin: 0 20%;
-    font-size: 50px;
+    margin: 0 2%;
+    font-size: 45px;
+    padding-bottom:40px; 
 }
 .page_content_quote_productos_abonos p{
     color: #42390C;
@@ -4416,7 +4447,7 @@ table.table.ulockd-two h3 {
 }
 @media only screen and (max-width: 768px){
     .page_content_quote_productos_abonos h3{
-        font-size: 17px;
+        font-size: 50px;
     }
     .page_content_quote_productos_abonos i{
         font-size: 18px;
@@ -4430,7 +4461,7 @@ table.table.ulockd-two h3 {
 }
 @media only screen and (max-width: 450px){
     .page_content_quote_productos_abonos h3{
-        font-size: 15px;
+        font-size: 30px;
     }
     .page_content_quote_productos_abonos i{
         font-size: 17px;
