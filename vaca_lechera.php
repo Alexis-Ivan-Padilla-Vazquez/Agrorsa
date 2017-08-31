@@ -100,7 +100,7 @@
 			                    <li class="dropdown">
 			                        <a href="#2" class="dropdown-toggle" data-toggle="dropdown">PRODUCTOS</a>
 			                        <ul class="dropdown-menu">
-										<li class="dropdown"><a href="#">ABONOS ORGANICOS DE INORGANICOS</a>
+										<li class="dropdown"><a href="#">ABONOS ORGANICOS E INORGANICOS</a>
 											    <ul class="dropdown-menu">
 												<li><a href="prestaciones_de_poliza.html">Prestaciones de Pollinaza </a></li>
 												<li><a href="sulfato.html">Sulfato y Urea</a></li>
@@ -114,13 +114,13 @@
 												<li><a href="maiz_molido.html">Maíz molido</a></li>
 	                                        </ul>
 										</li>
-										<li class="dropdown"><a href="">MATERIAS PRIMAS</a>
-										 <ul class="dropdown-menu">
+										<li class="dropdown"><a href="materias_primas.php">MATERIAS PRIMAS</a>
+										 <!--<ul class="dropdown-menu">
 												<li><a href="soya.html">Soya</a></li>
 												<li><a href="sorgo.html">Sorgo</a></li>
 												<li><a href="salvado.html">Salvado</a></li>
 												<li><a href="melaza.html">Melaza</a></li>
-										</ul>
+										</ul>-->
 										</li>
 
 									<li class="dropdown"><a href="">ALIMENTOS BALANCEADOS</a>
@@ -168,7 +168,6 @@
 			</div>
 		</div>
 	</div>
-
 	<!-- Home Design Inner Pages -->
 	<div class="ulockd-inner-home9">
 		<div class="container text-center">
@@ -258,16 +257,16 @@
 													<p class="lead" style="display: inline;font-size: 16px;color: #42390C;">
 													<br>
 													Alimento balanceado para vacas en producción que se puede complementar con forrajes de buena y regular calidad.<br><br>
-													Recomendaciones:<br>
-													Suministrar 1 kg de alimento por cada 3 o 4 de leche
+													<b>Recomendaciones:</b><br>
+													<b>Suministrar 1 kg de alimento por cada 3 o 4 de leche</b>
 													<br><br>
-													Ingredientes:<br>
-													Cereales molidos y rolados, pastas de oleoginosas, sub productos de cereales, agroindustriales y minerales
+													<b>Ingredientes:</b><br>
+													<b>Cereales molidos y rolados, pastas de oleoginosas, sub productos de cereales, agroindustriales y minerales.</b>
 
 													</p>
 										        </div>
 										          <div class="col-md-4" style="padding-top: 18px;">
-															<img class="img-responsive" src="images/productos/alimentos/rumiantes/a engorda borrego espc.png" alt="a engorda borrego espc.png" width="280px;">
+															<img class="img-responsive" src="images/productos/alimentos/rumiantes/b vaca lechera espc.png" alt="b vaca lechera espc.png" width="280px;">
 										        </div>
 										       </div>
 									      </div>

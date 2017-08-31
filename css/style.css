@@ -3235,14 +3235,26 @@ h5.back-title {
   padding-top: 60px;
 }
 .ulockd-footer2 {
-        background: url(../images/productos/alimentos/cerdos/PAGINA.png) no-repeat fixed left;
+        background: url(../images/productos/alimentos/cerdos/PAGINA.jpg) no-repeat fixed center;
+  /*height: 600px; */
+ background-size: cover;
+  
+
+}
+.ulockd-footer3 {
+        background: url(../images/productos/alimentos/rumiantes/rumantes.jpg) no-repeat fixed center;
   /*height: 600px; */
  background-size: cover;
   width: auto;
- 
 }
-.ulockd-footer3 {
-        background: url(../images/productos/alimentos/rumiantes/rumiantes.png) no-repeat fixed center;
+.ulockd-footer4 {
+        background: url(../images/productos/abonos/sulfato/UREA.jpg) no-repeat fixed center;
+  /*height: 600px; */
+ background-size: cover;
+  width: auto;
+}
+.ulockd-footer5 {
+        background: url(../images/productos/materias/materias.jpg) no-repeat fixed center;
   /*height: 600px; */
  background-size: cover;
   width: auto;

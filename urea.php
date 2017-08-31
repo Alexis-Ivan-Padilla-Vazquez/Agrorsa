@@ -100,7 +100,7 @@
 			                    <li class="dropdown">
 			                        <a href="#2" class="dropdown-toggle" data-toggle="dropdown">PRODUCTOS</a>
 			                        <ul class="dropdown-menu">
-										<li class="dropdown"><a href="#">ABONOS ORGANICOS DE INORGANICOS</a>
+										<li class="dropdown"><a href="#">ABONOS ORGANICOS E INORGANICOS</a>
 											    <ul class="dropdown-menu">
 												<li><a href="prestaciones_de_poliza.html">Prestaciones de Pollinaza </a></li>
 												<li><a href="sulfato.html">Sulfato y Urea</a></li>
@@ -114,18 +114,18 @@
 												<li><a href="maiz_molido.html">Maíz molido</a></li>
 	                                        </ul>
 										</li>
-										<li class="dropdown"><a href="">MATERIAS PRIMAS</a>
-										 <ul class="dropdown-menu">
+										<li class="dropdown"><a href="materias_primas.php">MATERIAS PRIMAS</a>
+										 <!--<ul class="dropdown-menu">
 												<li><a href="soya.html">Soya</a></li>
 												<li><a href="sorgo.html">Sorgo</a></li>
 												<li><a href="salvado.html">Salvado</a></li>
 												<li><a href="melaza.html">Melaza</a></li>
-										</ul>
+										</ul>-->
 										</li>
 
 									<li class="dropdown"><a href="">ALIMENTOS BALANCEADOS</a>
 										<ul class="dropdown-menu">
-										<li class="dropdown"><a href="rumantes.html">Rumantes</a>
+										<li class="dropdown"><a href="rumantes.html">Rumiantes</a>
 											<!--<ul class="dropdown-menu">
 											<li><a href="blog-grid-one.html">Descripcion del producto</a></li>
 											</ul>-->
@@ -169,9 +169,8 @@
 		</div>
 	</div>
 
-
 	<!-- Home Design Inner Pages -->
-	<div class="ulockd-inner-home8">
+	<div class="ulockd-inner-home6">
 		<div class="container text-center">
 			<div class="row">
 				<div class="ulockd-inner-conraimer-details">
@@ -182,9 +181,9 @@
 						<div class="ulockd-icd-layer">
 							<div class="ulockd-icd-subtitle pull-left"></div>
 							<ul class="list-inline ulockd-icd-sub-menu">
-								<li><a href="#"> MATERIAS PRIMAS</a></li>
+								<li><a href="#"> ALIMENTOS BALANCEADOS</a></li>
 								<li><a href="#"> > </a></li>
-								<li> <a href="#"> SALVADO</a> </li>
+								<li> <a href="#"> CERDOS</a> </li>
 							</ul>
 						</div>
 					</div>
@@ -193,12 +192,12 @@
 		</div>
 	</div>
 
-	<div id="1" class="page_content_quote_productos_abonos big-padding  ">
+	<div id="1" class="page_content_quote_productos_abonos big-padding">
                 <div class="container ">
                <div class="row">
                         <div class="col-md-11 wow fadeInLeft">
                                 <h3 style="text-align: center;" >
-                                   POLLINAZA
+                                   <b>ABONOS INORGÁNICOS  </b>
                                    </h3>
                          </div>
                 </div>
@@ -206,28 +205,39 @@
                         <div class="col-md-3 wow fadeInLeft">
                         <div class="col-xxs-12 col-xs-12 col-sm-12 col-md-12 ulockd-fservice-box style2" style="padding-top: 181px;">
                               <div class="db-thumb">
-								<img class="img-responsive img-whp2" src="images/fservice/1.png"  alt="1.png">			
+                              <center>
+								<img class="img-responsive img-whp2" src="images/productos/abonos/sulfato/b urea 220px.png"  alt="b urea 220px.png">	
+								</center>		
 							</div>
                          </div>
                          </div>
                            <div class="col-md-5 wow fadeInUp" >
-                            	<div class="col-md-12 text-center">                         	
-                               <p><h2 style="display: inline;font-size:20px;"><b>Molida</b></h2><p style="display: inline;font-size: 18px;"> Excreta directa de granja avicola, que pasa por un proceso de molienda para mejorar su textura y facilitar el acondicionamiento a sus diferentes usos.</p></p>
+                            	<div class="col-md-12 text-left">                         	
+                               <p style="display: inline;font-size: 16px;">Entre los fertilizantes nitrogenados de uso mas frecuente se encuentran la urea, el nitrato de amonio (NA) y el sulfato de amonio (SA). 
+								En cada cultivo se probó el efecto de la adición de N en cantidades iguales para cada fuente: sulfato de amonio, nitrato de amonio y de urea 
+								 </p>
                             	</div>
                                  <div class="col-md-12 " style="padding-top: 10px;">
                                  <div style="text-align:left; margin-left: 40px; ">
-                                   <h2>MOLIDA</h2>
+                                   <h2>Urea</h2>
                               	 </div>
                                 </div>
                                 <div class="col-md-11" style="padding-top: 30px;margin-left: 40px; ">
-                                 <p> Excreta directa de granja avicola, que pasa por un proceso de molienda para mejorar su textura y facilitar el acondicionamiento a sus diferentes usos.</p>
+                                 <p style="display: inline;font-size: 16px;">Proporciona un alto contenido de nitrógeno, el cual es esencial en el metabolismo de la planta ya que se relaciona directamente con la cantidad de tallos y hojas, quienes absorben la luz para la fotosíntesis. <br>
+								Debido a la demanda alta de nitrógeno en los cultivos, la fertilización es esencial.<br><br>
+
+								La urea es apta para todo tipos de cultivos.<br>
+								La aplicación depende de la etapa de crecimiento y tipo de cultivo.
+								</p>
                                 </div>
                          	</div>
                            <div class="col-md-4 wow fadeInRight">
                           <div class="col-xxs-12 col-xs-12 col-sm-12 col-md-12 ulockd-fservice-box style2" style="padding-top: 18px;">
                               <div class="db-thumb">
-								<img class="img-responsive img-whp3" src="images/fservice/1.png"  alt="1.png">
-								<div class="db-overlayer3"><img src="images/fservice/LOGO.png" width="50px;" alt=""></div>
+                              <center>
+								<img class="img-responsive img-whp3" src="images/productos/abonos/sulfato/IMAGEN 1 SULFATP Y UREA.png"  alt="1.png">
+								<!--<div class="db-overlayer3"><img src="images/fservice/LOGO.png" width="50px;" alt=""></div>-->
+								</center>
 							</div>
                          </div>
                          </div>
@@ -235,15 +245,15 @@
                          </div>
                          <br><br>
 						<div class="row">
-                           <div class="col-xs-8 col-xxs-12  wow fadeInLeft">
+                           <div class="col-xs-8  col-xxs-12 wow fadeInLeft">
                                
 								<div>
 								<!-- Nav tabs -->
 								<ul class="nav nav-tabs" role="tablist" style="border-bottom: 1px solid #42390C;" >
 									<li role="presentation" class="active"><a href="#home" aria-controls="home" role="tab" data-toggle="tab"><b>Descripción</b></a></li>
-									<li role="presentation"><a href="#profile" aria-controls="profile" role="tab" data-toggle="tab">Propiedades funcionales</a></li>
-									<li role="presentation"><a href="#messages" aria-controls="messages" role="tab" data-toggle="tab">Ficha técnica</a></li>
-									<li role="presentation"><a href="#settings" aria-controls="settings" role="tab" data-toggle="tab">Composición química</a></li>
+									<li role="presentation"><a href="#profile" aria-controls="profile" role="tab" data-toggle="tab">Comportamiento en el suelo</a></li>
+									<li role="presentation"><a href="#messages" aria-controls="messages" role="tab" data-toggle="tab">Panel nutricional</a></li>
+									<li role="presentation"><a href="#settings" aria-controls="settings" role="tab" data-toggle="tab">Usos y recomendaciones</a></li>
 								</ul>
 
 								<!-- Tab panes -->
@@ -252,32 +262,90 @@
 									 <div class="container">
 								               <div class="row">
 								                <div class="col-md-4">
-													<p class="lead">La pilliza tiene una composición química variable y su mayor es como fuente de proteína y minerales, los principales ingredientes y rangos aceptables son:</p>
+													<p class="lead" style="display: inline;font-size: 16px;color: #42390C;">
+													<br>
+												Proporciona un alto contenido de nitrógeno, el cual es esencial en el metabolismo de la planta ya que se relaciona directamente con la cantidad de tallos y hojas, quienes absorben la luz para la fotosíntesis. <br><br>
+												Debido a la demanda alta de nitrógeno en los cultivos, la fertilización es esencial.<br><br>
+
+												La urea es apta para todo tipos de cultivos.<br>
+												La aplicación depende de la etapa de crecimiento y tipo de cultivo.
+													</p>
 										        </div>
-										          <div class="col-md-4" style="padding-top: 18px;">
-															<img class="img-responsive" src="images/aspros/imagen izquierda.png" alt="imagen izquierda.png" width="280px;">
+										          <div class="col-md-4">
+														<p class="lead" style="display: inline;font-size: 16px;color: #42390C;"><br>
+														<b>Características:</b>
+														<br>
+														
+														<b>Granulometria: </b><br>
+														<b>Granulada, perlada y encapsulada.</b><br>
+														 </p>
 										        </div>
 										       </div>
 									      </div>
 									</div>
 									<div role="tabpanel" class="tab-pane" id="profile">
-												<p>3</p>
-										
+									  <div class="container">
+								               <div class="row">
+								                <div class="col-md-4">
+													<p class="lead" style="display: inline;font-size: 16px;color: #42390C;">
+														<br>
+														La urea se adapta a diferentes tipos de cultivos. Es necesario fertilizar, ya que con la cosecha se pierde una gran cantidad de nitrógeno. El grano se aplica al suelo, el cuál debe estar bien trabajado y ser rico en bacterias. La aplicación puede hacerse en el momento de la siembra o antes. Luego el grano se hidroliza y se descompone.
+														Debe tenerse mucho cuidado en la correcta aplicación de la urea al suelo. Si ésta es aplicada en la superficie, o si no se incorpora al suelo, ya sea por correcta aplicación, lluvia o riego, el amoníaco se vaporiza y las pérdidas son muy importantes. La carencia de nitrógeno en la planta se manifiesta en una disminución del área foliar y una caída de la actividad fotosintética.
+
+
+													</p>
+										        </div>
+										          <div class="col-md-4">
+														<p class="lead" style="display: inline;font-size: 16px;color: #42390C;">
+														<br>
+														Debe tenerse mucho cuidado en la correcta aplicación de la urea al suelo. Si ésta es aplicada en la superficie, o si no se incorpora al suelo, ya sea por correcta aplicación, lluvia o riego, el amoníaco se vaporiza y las pérdidas son muy importantes. La carencia de nitrógeno en la planta se manifiesta en una disminución del área foliar y una caída de la actividad fotosintética.
+													</p>
+										        </div>
+										       </div>
+									      </div>
 									</div>
 									<div role="tabpanel" class="tab-pane" id="messages">
-										         <p>4</p>
+									   <div class="container">
+								               <div class="row">
+								                <div class="col-md-4">
+												<p class="lead" style="display: inline;font-size: 16px;color: #42390C;"> <br>
+												El 91 % de la urea producida se emplea como fertilizante. Se aplica al suelo y provee nitrógeno a la planta. También se utiliza la urea de bajo contenido de biuret (menor al 0.03 %) como fertilizante de uso foliar. Se disuelve en agua y se aplica a las hojas de las plantas, sobre todo frutales, cítricos.
+													</p>
+										        </div>
+										          <div class="col-md-4">
+										          <p class="lead" style="display: inline;font-size: 16px;color: #42390C;"> <br>
+															La urea como fertilizante presenta la ventaja de proporcionar un alto contenido de nitrógeno, esencial en el metabolismo de la planta ya que se relaciona directamente con la cantidad de tallos y hojas, quienes absorben la luz para la fotosíntesis. Además el nitrógeno está presente en las vitaminas y proteínas, y se relaciona con el contenido proteico de los cereales.
+												  </p>
+										        </div>
+										       </div>
+									      </div>
 									</div>
 									<div role="tabpanel" class="tab-pane" id="settings">
-												  <p>5</p>
+										<div class="container">
+								               <div class="row">
+								                <div class="col-md-4">
+													<p class="lead" style="display: inline;font-size: 16px;color: #42390C;">
+													<br>La fertilización foliar es una antigua práctica, pero en general se aplican cantidades relativamente exiguas con relación a las de suelo, en particular de macronutrientes. 
+													Sin embargo varios antecedentes internacionales demuestran que el empleo de urea permite reducir las dosis de fertilizantes aplicados al suelo, sin pérdida de rendimiento, tamaño y calidad de fruta. 
+													</p>
+										        </div>
+										          <div class="col-md-4" >
+														<p class="lead" style="display: inline;font-size: 16px;color: #42390C;">
+														<br>Estudios realizados demuestran que las aplicaciones foliares de urea en bajas cantidades resultan tan efectivas como las aplicaciones al suelo. Esto convalida la práctica de aplicar fertilizantes junto con las aplicaciones de otros agroquímicos como complemento de un programa de fertilización eficiente. 	
+													</p>
+										        </div>
+										       </div>
+									      </div>
 									</div>
 								</div>
 								</div>
                             </div>
                 			<div class="col-md-4 wow fadeInRight">
-                               <div class="col-xxs-12 col-xs-12 col-sm-12 col-md-12 ulockd-fservice-box style2" style="padding-top: 18px;">
+                               <div class="col-xxs-12 col-xs-12 col-sm-12 col-md-12 ulockd-fservice-box style2" style="padding-top: 58px;">
                               		<div class="db-thumb">
-										<img class="img-responsive img-whp3" src="images/fservice/1.png"  alt="1.png">
-										<div class="db-overlayer3"><img src="images/fservice/LOGO.png" width="50px;" alt=""></div>
+                              		<center>
+										<img class="img-responsive " src="images/productos/abonos/sulfato/IMAGEN 2 SULFATO Y UREA.png"  alt="IMAGEN 2.png">
+										</center>
 									</div>
                          		</div>
                          </div>
@@ -295,63 +363,43 @@
 												<div style="text-align: center;">
 												<h2>Productos</h2>
 												</div>
-												<p>Muchos comerciantes se valen de una simple descripción de producto estándar proporcionada por una empresa a la que han tercerizado la tarea; recayendo en típicas frases breves, incompletas y que pueden provocar.
-												</p><br>
+												<p style="padding-bottom:1px; ">También contamos con una serie de lineamientos los cuales garantizan la calidad en todos los procesos de producción para compostas orgánicas.
+												En las imágenes de otros productos se agregarán (tipos de pollinaza) además del sulfato y urea
+
+												</p>
 												<!--<a class="btn btn-default ulockd-btn-white hvr-overline-from-center" href="#">Read More</a>-->
 											</div>
 										</div>
 									</div>
 									<div class="col-sm-12 col-md-6 col-lg-9">
 										<div class="about-slider text-left">
-											<div class="item">
+										<div class="item">
 											<div class="ab-thumb">
 												<center>
-														<img class="img-responsive img-whp1"  src="images/fservice/LOGOPRODUCTOS.png"  alt="2.jpg">	
+														<img class="img-responsive img-whp1"  src="images/productos/abonos/sulfato/a sulfato 150px.png"  alt="a sulfato 150px.png">	
 												</center>								
 											</div>
 												<div class="about-box2 hvr-float-shadow">
 													<div class="ab-details2 text-center">
-														<h4 class="text-thm1">Sernida</h4>
-														<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi eaque quis adipisci molestiae dignissimos ex fugit nihil!</p>
+														<h4 class="text-thm1">Sulfato</h4>
+														<p>
+														Contiene nitrógeno (N) y azufre (S), nutrientes esenciales, que tienen  </p>
+														<a class="btn btn-default ulockd-btn-white hvr-overline-from-center" href="sulfato.html">Ver más</a>
 													</div>
 												</div>
 											</div>
 											<div class="item">
 											<div class="ab-thumb">
 												<center>
-														<img class="img-responsive img-whp1"  src="images/fservice/LOGOPRODUCTOS.png"  alt="2.jpg">	
+														<img class="img-responsive img-whp1"  src="images/productos/abonos/sulfato/b urea 150px.png"  alt="b urea 150px.png">	
 												</center>								
 											</div>
 												<div class="about-box2 hvr-float-shadow">
 													<div class="ab-details2 text-center">
-														<h4 class="text-thm1"> Picada</h4>
-														<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi eaque quis adipisci molestiae dignissimos ex fugit nihil!</p>
-													</div>
-												</div>
-											</div>
-											<div class="item">
-											<div class="ab-thumb">
-												<center>
-														<img class="img-responsive img-whp1"  src="images/fservice/LOGOPRODUCTOS.png"  alt="2.jpg">	
-												</center>								
-											</div>
-												<div class="about-box2 hvr-float-shadow">
-													<div class="ab-details2 text-center">
-														<h4 class="text-thm1"> En greña /Entera</h4>
-														<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi eaque quis adipisci molestiae dignissimos ex fugit nihil!</p>
-													</div>
-												</div>
-											</div>
-											<div class="item">
-											<div class="ab-thumb">
-												<center>
-														<img class="img-responsive img-whp1"  src="images/fservice/LOGOPRODUCTOS.png"  alt="2.jpg">	
-												</center>								
-											</div>
-												<div class="about-box2 hvr-float-shadow">
-													<div class="ab-details2 text-center">
-														<h4 class="text-thm1">Enmelazada</h4>
-														<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi eaque quis adipisci molestiae dignissimos ex fugit nihil!</p>
+														<h4 class="text-thm1">Urea</h4>
+														<p>															
+														Proporciona un alto contenido de nitrógeno, el cual es esencial en  </p>
+														<a class="btn btn-default ulockd-btn-white hvr-overline-from-center" href="urea.php">Ver más</a>
 													</div>
 												</div>
 											</div>
@@ -367,14 +415,14 @@
 	
 	<!--FOOTER -->
 	<!--<img alt="" src="images/home/franja.png" height="150px" width="13000" />-->
-<section class="ulockd-footer big-padding">
+<section class="ulockd-footer4 ">
 		<div class="container">
 			<div class="row">
 		
 				<div class="col-xxs-8 col-xs-12 col-sm-4 col-md-3" style="padding-top: 70px;">
 					<div class="ulockd-footer-fst-col">
 						<img alt="" src="images/header-logo2.png" class="img-responsive ulockd-footer-log">
-    					<p class="ulockd-ftr-text">Sirequiere informacion a cerca de nuestros avisos de privacidad por favor escribanos a privacidad@agrorsa.com.mx y con gusto le brindaremos la información solicitada en un documento ejecutivo.</p>
+    					<p class="ulockd-ftr-text">Si requiere informacion a cerca de nuestros avisos de privacidad por favor escribanos a privacidad@agrorsa.com.mx y con gusto le brindaremos la información solicitada en un documento ejecutivo.</p>
 						<ul class="list-inline ulockd-footer-font-icon">
 							<li><a href="#"><i class="fa fa-facebook"></i></a></li>
 							<li><a href="#"><i class="fa fa-feed"></i></a></li>

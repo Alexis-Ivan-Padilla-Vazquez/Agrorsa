@@ -67,6 +67,7 @@
   			</div>
   		</div>
   	</div>
+  	
 
 	<!-- Header Styles -->
 	<div class="header-nav">
@@ -100,7 +101,7 @@
 			                    <li class="dropdown">
 			                        <a href="#2" class="dropdown-toggle" data-toggle="dropdown">PRODUCTOS</a>
 			                        <ul class="dropdown-menu">
-										<li class="dropdown"><a href="#">ABONOS ORGANICOS DE INORGANICOS</a>
+										<li class="dropdown"><a href="#">ABONOS ORGANICOS E INORGANICOS</a>
 											    <ul class="dropdown-menu">
 												<li><a href="prestaciones_de_poliza.html">Prestaciones de Pollinaza </a></li>
 												<li><a href="sulfato.html">Sulfato y Urea</a></li>
@@ -114,18 +115,18 @@
 												<li><a href="maiz_molido.html">Maíz molido</a></li>
 	                                        </ul>
 										</li>
-										<li class="dropdown"><a href="">MATERIAS PRIMAS</a>
-										 <ul class="dropdown-menu">
+										<li class="dropdown"><a href="materias_primas.php">MATERIAS PRIMAS</a>
+										 <!--<ul class="dropdown-menu">
 												<li><a href="soya.html">Soya</a></li>
 												<li><a href="sorgo.html">Sorgo</a></li>
 												<li><a href="salvado.html">Salvado</a></li>
 												<li><a href="melaza.html">Melaza</a></li>
-										</ul>
+										</ul>-->
 										</li>
 
 									<li class="dropdown"><a href="">ALIMENTOS BALANCEADOS</a>
 										<ul class="dropdown-menu">
-										<li class="dropdown"><a href="rumantes.html">Rumantes</a>
+										<li class="dropdown"><a href="rumantes.html">Rumiantes</a>
 											<!--<ul class="dropdown-menu">
 											<li><a href="blog-grid-one.html">Descripcion del producto</a></li>
 											</ul>-->
@@ -168,8 +169,6 @@
 			</div>
 		</div>
 	</div>
-
-
 	<!-- Home Design Inner Pages -->
 	<div class="ulockd-inner-home8">
 		<div class="container text-center">
@@ -182,9 +181,9 @@
 						<div class="ulockd-icd-layer">
 							<div class="ulockd-icd-subtitle pull-left"></div>
 							<ul class="list-inline ulockd-icd-sub-menu">
-								<li><a href="#"> MATERIAS PRIMAS</a></li>
+								<li><a href="#">ALIMENTOS BALANCEADOS</a></li>
 								<li><a href="#"> > </a></li>
-								<li> <a href="#"> MELAZA</a> </li>
+								<li> <a href="#">CERDOS</a> </li>
 							</ul>
 						</div>
 					</div>
@@ -193,12 +192,12 @@
 		</div>
 	</div>
 
-	<div id="1" class="page_content_quote_productos_abonos big-padding  ">
+	<div id="1" class="page_content_quote_productos_abonos big-padding">
                 <div class="container ">
                <div class="row">
                         <div class="col-md-11 wow fadeInLeft">
                                 <h3 style="text-align: center;" >
-                                   POLLINAZA
+                                   <b>MATERIAS PRIMAS</b>
                                    </h3>
                          </div>
                 </div>
@@ -206,28 +205,34 @@
                         <div class="col-md-3 wow fadeInLeft">
                         <div class="col-xxs-12 col-xs-12 col-sm-12 col-md-12 ulockd-fservice-box style2" style="padding-top: 181px;">
                               <div class="db-thumb">
-								<img class="img-responsive img-whp2" src="images/fservice/1.png"  alt="1.png">			
+                              <center>
+								<img class="img-responsive img-whp2" src="images/productos/materias/c salvado 220px.png"  alt="c salvado 220px.png">	
+								</center>		
 							</div>
                          </div>
                          </div>
-                           <div class="col-md-5 wow fadeInUp" >
-                            	<div class="col-md-12 text-center">                         	
-                               <p><h2 style="display: inline;font-size:20px;"><b>Molida</b></h2><p style="display: inline;font-size: 18px;"> Excreta directa de granja avicola, que pasa por un proceso de molienda para mejorar su textura y facilitar el acondicionamiento a sus diferentes usos.</p></p>
+                           <div class="col-md-5 wow fadeInUp">
+                            	<div class="col-md-12 text-left">                         	
+                               <p style="display: inline;font-size: 16px;">Los alimentos balanceados con una correcta combinación de ingredientes cubren los requerimientos nutricionales de un animal. Dicha proporción está en función de su etapa metabólica, edad, peso y actividad. 
+								 </p>
                             	</div>
                                  <div class="col-md-12 " style="padding-top: 10px;">
                                  <div style="text-align:left; margin-left: 40px; ">
-                                   <h2>MOLIDA</h2>
+                                   <h2>Salvado</h2>
                               	 </div>
                                 </div>
                                 <div class="col-md-11" style="padding-top: 30px;margin-left: 40px; ">
-                                 <p> Excreta directa de granja avicola, que pasa por un proceso de molienda para mejorar su textura y facilitar el acondicionamiento a sus diferentes usos.</p>
+                                 <p style="display: inline;font-size: 16px;">Contiene gran cantidad de nutrientes y fibra dietéticas que lo convierten especialmente apto para la nutrición más completa en la dieta alimenticia del ganado, incrementando el tamaño del bolo alimenticio.
+								</p>
                                 </div>
                          	</div>
                            <div class="col-md-4 wow fadeInRight">
                           <div class="col-xxs-12 col-xs-12 col-sm-12 col-md-12 ulockd-fservice-box style2" style="padding-top: 18px;">
                               <div class="db-thumb">
-								<img class="img-responsive img-whp3" src="images/fservice/1.png"  alt="1.png">
-								<div class="db-overlayer3"><img src="images/fservice/LOGO.png" width="50px;" alt=""></div>
+                              <center>
+								<img class="img-responsive img-whp3" src="images/productos/materias/imagen 1.png"  alt="imagen 1.png">
+								<!--<div class="db-overlayer3"><img src="images/fservice/LOGO.png" width="50px;" alt=""></div>-->
+								</center>
 							</div>
                          </div>
                          </div>
@@ -235,15 +240,14 @@
                          </div>
                          <br><br>
 						<div class="row">
-                           <div class="col-xs-8 col-xxs-12  wow fadeInLeft">
+                           <div class="col-xs-8  col-xxs-12 wow fadeInLeft">
                                
 								<div>
 								<!-- Nav tabs -->
 								<ul class="nav nav-tabs" role="tablist" style="border-bottom: 1px solid #42390C;" >
 									<li role="presentation" class="active"><a href="#home" aria-controls="home" role="tab" data-toggle="tab"><b>Descripción</b></a></li>
-									<li role="presentation"><a href="#profile" aria-controls="profile" role="tab" data-toggle="tab">Propiedades funcionales</a></li>
-									<li role="presentation"><a href="#messages" aria-controls="messages" role="tab" data-toggle="tab">Ficha técnica</a></li>
-									<li role="presentation"><a href="#settings" aria-controls="settings" role="tab" data-toggle="tab">Composición química</a></li>
+									<li role="presentation"><a href="#profile" aria-controls="profile" role="tab" data-toggle="tab">Papel Nutricional</a></li>
+									
 								</ul>
 
 								<!-- Tab panes -->
@@ -252,32 +256,53 @@
 									 <div class="container">
 								               <div class="row">
 								                <div class="col-md-4">
-													<p class="lead">La pilliza tiene una composición química variable y su mayor es como fuente de proteína y minerales, los principales ingredientes y rangos aceptables son:</p>
+													<p class="lead" style="display: inline;font-size: 16px;color: #42390C;">
+													<br>
+													Contiene gran cantidad de nutrientes y fibra dietéticas que lo convierten especialmente apto para la nutrición más completa en la dieta alimenticia del ganado, incrementando el tamaño del bolo alimenticio.
+													</p>
 										        </div>
-										          <div class="col-md-4" style="padding-top: 18px;">
-															<img class="img-responsive" src="images/aspros/imagen izquierda.png" alt="imagen izquierda.png" width="280px;">
+										          <div class="col-md-4">
+														<p class="lead" style="display: inline;font-size: 16px;color: #42390C;"><br>
+														<b>Subproducto del trigo:</b><br>
+														<b>Presentación en sacos de 40Kg.</b><br><br>
+														<b>características:</b><br>
+														<b>complemento proteínico para elaboración de alimentos balanceados.</b>
+														 </p>
 										        </div>
 										       </div>
 									      </div>
 									</div>
 									<div role="tabpanel" class="tab-pane" id="profile">
-												<p>3</p>
-										
-									</div>
-									<div role="tabpanel" class="tab-pane" id="messages">
-										         <p>4</p>
-									</div>
-									<div role="tabpanel" class="tab-pane" id="settings">
-												  <p>5</p>
+									  <div class="container">
+								               <div class="row">
+								                <div class="col-md-4">
+													<p class="lead" style="display: inline;font-size: 16px;color: #42390C;">
+														<br>
+														Los carbohidratos, como el azúcar y el almidón son utilizados como fuente de energía. 
+														Las grasas se desdoblan en el cuerpo para obtener carbohidratos y agua. 
+														
+													</p>
+										        </div>
+										          <div class="col-md-4">
+														<p class="lead" style="display: inline;font-size: 16px;color: #42390C;">
+														<br>
+													Las proteínas constituyen la estructura del  cuerpo y se requieren para producir músculos.
+														Los minerales, son necesarios para la formación de los huesos y las vitaminas son esenciales para tener un cuerpo sano. 
+
+													</p>
+										        </div>
+										       </div>
+									      </div>
 									</div>
 								</div>
 								</div>
                             </div>
                 			<div class="col-md-4 wow fadeInRight">
-                               <div class="col-xxs-12 col-xs-12 col-sm-12 col-md-12 ulockd-fservice-box style2" style="padding-top: 18px;">
+                               <div class="col-xxs-12 col-xs-12 col-sm-12 col-md-12 ulockd-fservice-box style2" style="padding-top: 58px;">
                               		<div class="db-thumb">
-										<img class="img-responsive img-whp3" src="images/fservice/1.png"  alt="1.png">
-										<div class="db-overlayer3"><img src="images/fservice/LOGO.png" width="50px;" alt=""></div>
+                              		<center>
+										<img class="img-responsive " src="images/productos/materias/imagen 2.png"  alt="imagen 2.png">
+										</center>
 									</div>
                          		</div>
                          </div>
@@ -295,63 +320,71 @@
 												<div style="text-align: center;">
 												<h2>Productos</h2>
 												</div>
-												<p>Muchos comerciantes se valen de una simple descripción de producto estándar proporcionada por una empresa a la que han tercerizado la tarea; recayendo en típicas frases breves, incompletas y que pueden provocar.
-												</p><br>
+												<p style="padding-bottom:100px; ">En agrorsa contamos con sub productos agropecuarios ideales para complemetar la dieta de su ganado al incluir un perfil nutricional para cada etapa de desarrollo y seguimiento.
+												</p>
 												<!--<a class="btn btn-default ulockd-btn-white hvr-overline-from-center" href="#">Read More</a>-->
 											</div>
 										</div>
 									</div>
 									<div class="col-sm-12 col-md-6 col-lg-9">
 										<div class="about-slider text-left">
-											<div class="item">
+										<div class="item">
 											<div class="ab-thumb">
 												<center>
-														<img class="img-responsive img-whp1"  src="images/fservice/LOGOPRODUCTOS.png"  alt="2.jpg">	
+														<img class="img-responsive img-whp1"  src="images/productos/materias/a soya 150px.png"  alt="a soya 150px.png">	
 												</center>								
 											</div>
 												<div class="about-box2 hvr-float-shadow">
 													<div class="ab-details2 text-center">
-														<h4 class="text-thm1">Sernida</h4>
-														<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi eaque quis adipisci molestiae dignissimos ex fugit nihil!</p>
+														<h4 class="text-thm1">Soya</h4>
+														<p> 
+														La pasta de Soya es la fuente de proteína más importante utilizada en   </p>
+														<a class="btn btn-default ulockd-btn-white hvr-overline-from-center" href="materias_primas.php">Ver más</a>
 													</div>
 												</div>
 											</div>
 											<div class="item">
 											<div class="ab-thumb">
 												<center>
-														<img class="img-responsive img-whp1"  src="images/fservice/LOGOPRODUCTOS.png"  alt="2.jpg">	
+														<img class="img-responsive img-whp1"  src="images/productos/materias/b sorgo 150px.png"  alt="b sorgo 150px.png">	
 												</center>								
 											</div>
 												<div class="about-box2 hvr-float-shadow">
 													<div class="ab-details2 text-center">
-														<h4 class="text-thm1"> Picada</h4>
-														<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi eaque quis adipisci molestiae dignissimos ex fugit nihil!</p>
+														<h4 class="text-thm1">Sorgo</h4>
+														<p>															
+														Comparándolo con otro cereal, sabemos que, en general, el sorgo </p>
+														<a class="btn btn-default ulockd-btn-white hvr-overline-from-center" href="sorgo.php">Ver más</a>
 													</div>
 												</div>
 											</div>
 											<div class="item">
 											<div class="ab-thumb">
 												<center>
-														<img class="img-responsive img-whp1"  src="images/fservice/LOGOPRODUCTOS.png"  alt="2.jpg">	
+														<img class="img-responsive img-whp1"  src="images/productos/materias/c salvado 150px.png"  alt="c salvado 150px.png">	
 												</center>								
 											</div>
 												<div class="about-box2 hvr-float-shadow">
 													<div class="ab-details2 text-center">
-														<h4 class="text-thm1"> En greña /Entera</h4>
-														<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi eaque quis adipisci molestiae dignissimos ex fugit nihil!</p>
+														<h4 class="text-thm1">Salvado</h4>
+														<p>															
+														Contiene gran cantidad de nutrientes y fibra dietéticas que lo</p>
+														<a class="btn btn-default ulockd-btn-white hvr-overline-from-center" href="salvado.php">Ver más</a>
 													</div>
 												</div>
 											</div>
 											<div class="item">
 											<div class="ab-thumb">
 												<center>
-														<img class="img-responsive img-whp1"  src="images/fservice/LOGOPRODUCTOS.png"  alt="2.jpg">	
+														<img class="img-responsive img-whp1"  src="images/productos/materias/d melaza 150px.png"  alt="d melaza 150px.png">	
 												</center>								
 											</div>
 												<div class="about-box2 hvr-float-shadow">
 													<div class="ab-details2 text-center">
-														<h4 class="text-thm1">Enmelazada</h4>
-														<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi eaque quis adipisci molestiae dignissimos ex fugit nihil!</p>
+														<h4 class="text-thm1">Melaza</h4>
+														<p>															
+														Los azúcares contenidos en la melaza son una fuente energética  </p>
+														<a class="btn btn-default ulockd-btn-white hvr-overline-from-center" href="melaza.php">Ver más</a>
 													</div>
 												</div>
 											</div>
@@ -367,14 +400,14 @@
 	
 	<!--FOOTER -->
 	<!--<img alt="" src="images/home/franja.png" height="150px" width="13000" />-->
-<section class="ulockd-footer big-padding">
+<section class="ulockd-footer5">
 		<div class="container">
 			<div class="row">
 		
 				<div class="col-xxs-8 col-xs-12 col-sm-4 col-md-3" style="padding-top: 70px;">
 					<div class="ulockd-footer-fst-col">
 						<img alt="" src="images/header-logo2.png" class="img-responsive ulockd-footer-log">
-    					<p class="ulockd-ftr-text">Sirequiere informacion a cerca de nuestros avisos de privacidad por favor escribanos a privacidad@agrorsa.com.mx y con gusto le brindaremos la información solicitada en un documento ejecutivo.</p>
+    					<p class="ulockd-ftr-text">Si requiere informacion a cerca de nuestros avisos de privacidad por favor escribanos a privacidad@agrorsa.com.mx y con gusto le brindaremos la información solicitada en un documento ejecutivo.</p>
 						<ul class="list-inline ulockd-footer-font-icon">
 							<li><a href="#"><i class="fa fa-facebook"></i></a></li>
 							<li><a href="#"><i class="fa fa-feed"></i></a></li>

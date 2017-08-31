@@ -100,7 +100,7 @@
 			                    <li class="dropdown">
 			                        <a href="#2" class="dropdown-toggle" data-toggle="dropdown">PRODUCTOS</a>
 			                        <ul class="dropdown-menu">
-										<li class="dropdown"><a href="#">ABONOS ORGANICOS DE INORGANICOS</a>
+										<li class="dropdown"><a href="#">ABONOS ORGANICOS E INORGANICOS</a>
 											    <ul class="dropdown-menu">
 												<li><a href="prestaciones_de_poliza.html">Prestaciones de Pollinaza </a></li>
 												<li><a href="sulfato.html">Sulfato y Urea</a></li>
@@ -114,18 +114,18 @@
 												<li><a href="maiz_molido.html">Maíz molido</a></li>
 	                                        </ul>
 										</li>
-										<li class="dropdown"><a href="">MATERIAS PRIMAS</a>
-										 <ul class="dropdown-menu">
+										<li class="dropdown"><a href="materias_primas.php">MATERIAS PRIMAS</a>
+										 <!--<ul class="dropdown-menu">
 												<li><a href="soya.html">Soya</a></li>
 												<li><a href="sorgo.html">Sorgo</a></li>
 												<li><a href="salvado.html">Salvado</a></li>
 												<li><a href="melaza.html">Melaza</a></li>
-										</ul>
+										</ul>-->
 										</li>
 
 									<li class="dropdown"><a href="">ALIMENTOS BALANCEADOS</a>
 										<ul class="dropdown-menu">
-										<li class="dropdown"><a href="rumantes.html">Rumantes</a>
+										<li class="dropdown"><a href="rumantes.html">Rumiantes</a>
 											<!--<ul class="dropdown-menu">
 											<li><a href="blog-grid-one.html">Descripcion del producto</a></li>
 											</ul>-->
@@ -170,7 +170,7 @@
 	</div>
 
 	<!-- Home Design Inner Pages -->
-	<div class="ulockd-inner-home8">
+	<div class="ulockd-inner-home6">
 		<div class="container text-center">
 			<div class="row">
 				<div class="ulockd-inner-conraimer-details">
@@ -181,9 +181,9 @@
 						<div class="ulockd-icd-layer">
 							<div class="ulockd-icd-subtitle pull-left"></div>
 							<ul class="list-inline ulockd-icd-sub-menu">
-								<li><a href="#"> MATERIAS PRIMAS</a></li>
+								<li><a href="#"> ALIMENTOS BALANCEADOS</a></li>
 								<li><a href="#"> > </a></li>
-								<li> <a href="#"> SOYA</a> </li>
+								<li> <a href="#"> CERDOS</a> </li>
 							</ul>
 						</div>
 					</div>
@@ -192,12 +192,12 @@
 		</div>
 	</div>
 
-	<div id="1" class="page_content_quote_productos_abonos big-padding  ">
+	<div id="1" class="page_content_quote_productos_abonos big-padding">
                 <div class="container ">
                <div class="row">
                         <div class="col-md-11 wow fadeInLeft">
                                 <h3 style="text-align: center;" >
-                                   POLLINAZA
+                                   <b>ABONOS ORGÁNICOS E INORGÁNICOS </b>
                                    </h3>
                          </div>
                 </div>
@@ -205,28 +205,32 @@
                         <div class="col-md-3 wow fadeInLeft">
                         <div class="col-xxs-12 col-xs-12 col-sm-12 col-md-12 ulockd-fservice-box style2" style="padding-top: 181px;">
                               <div class="db-thumb">
-								<img class="img-responsive img-whp2" src="images/fservice/1.png"  alt="1.png">			
+                              <center>
+								<img class="img-responsive img-whp2" src="images/productos/abonos/pollinaza/c picada 220px.png"  alt="c picada 220px.png">	
+								</center>		
 							</div>
                          </div>
                          </div>
                            <div class="col-md-5 wow fadeInUp" >
-                            	<div class="col-md-12 text-center">                         	
-                               <p><h2 style="display: inline;font-size:20px;"><b>Molida</b></h2><p style="display: inline;font-size: 18px;"> Excreta directa de granja avicola, que pasa por un proceso de molienda para mejorar su textura y facilitar el acondicionamiento a sus diferentes usos.</p></p>
+                            	<div class="col-md-12 text-left">                         	
+                               <p style="display: inline;font-size: 16px;">La pollinaza es un subproducto derivado de la producción intensiva del pollo de engorda que se obtiene de la combinación básicamente de las excretas del pollo con cama o base de la caseta, residuos de alimento, plumas y agua. </p>
                             	</div>
                                  <div class="col-md-12 " style="padding-top: 10px;">
                                  <div style="text-align:left; margin-left: 40px; ">
-                                   <h2>MOLIDA</h2>
+                                   <h2>Picada</h2>
                               	 </div>
                                 </div>
                                 <div class="col-md-11" style="padding-top: 30px;margin-left: 40px; ">
-                                 <p> Excreta directa de granja avicola, que pasa por un proceso de molienda para mejorar su textura y facilitar el acondicionamiento a sus diferentes usos.</p>
+                                 <p style="display: inline;font-size: 16px;">Excreta directa de granja avícola, que pasa por un proceso de picado para mejorar su textura y facilitar el acondicionamiento a sus diferentes aplicaciones.</p>
                                 </div>
                          	</div>
                            <div class="col-md-4 wow fadeInRight">
                           <div class="col-xxs-12 col-xs-12 col-sm-12 col-md-12 ulockd-fservice-box style2" style="padding-top: 18px;">
                               <div class="db-thumb">
-								<img class="img-responsive img-whp3" src="images/fservice/1.png"  alt="1.png">
-								<div class="db-overlayer3"><img src="images/fservice/LOGO.png" width="50px;" alt=""></div>
+                              <center>
+								<img class="img-responsive img-whp3" src="images/productos/abonos/pollinaza/IMAGEN 1.jpg"  alt="1.png">
+								<!--<div class="db-overlayer3"><img src="images/fservice/LOGO.png" width="50px;" alt=""></div>-->
+								</center>
 							</div>
                          </div>
                          </div>
@@ -234,14 +238,14 @@
                          </div>
                          <br><br>
 						<div class="row">
-                           <div class="col-xs-8 col-xxs-12  wow fadeInLeft">
+                           <div class="col-xs-8  col-xxs-12 wow fadeInLeft">
                                
 								<div>
 								<!-- Nav tabs -->
 								<ul class="nav nav-tabs" role="tablist" style="border-bottom: 1px solid #42390C;" >
 									<li role="presentation" class="active"><a href="#home" aria-controls="home" role="tab" data-toggle="tab"><b>Descripción</b></a></li>
-									<li role="presentation"><a href="#profile" aria-controls="profile" role="tab" data-toggle="tab">Propiedades funcionales</a></li>
-									<li role="presentation"><a href="#messages" aria-controls="messages" role="tab" data-toggle="tab">Ficha técnica</a></li>
+									<li role="presentation"><a href="#profile" aria-controls="profile" role="tab" data-toggle="tab">Composición cualitativa</a></li>
+									<li role="presentation"><a href="#messages" aria-controls="messages" role="tab" data-toggle="tab">Propiedades funcionales</a></li>
 									<li role="presentation"><a href="#settings" aria-controls="settings" role="tab" data-toggle="tab">Composición química</a></li>
 								</ul>
 
@@ -251,32 +255,116 @@
 									 <div class="container">
 								               <div class="row">
 								                <div class="col-md-4">
-													<p class="lead">La pilliza tiene una composición química variable y su mayor es como fuente de proteína y minerales, los principales ingredientes y rangos aceptables son:</p>
+													<p class="lead" style="display: inline;font-size: 16px;color: #42390C;">
+													<br>
+													Excreta directa de granja avícola, que pasa por un proceso de picado para mejorar su textura y facilitar el acondicionamiento a sus diferentes aplicaciones
+													</p>
 										        </div>
-										          <div class="col-md-4" style="padding-top: 18px;">
-															<img class="img-responsive" src="images/aspros/imagen izquierda.png" alt="imagen izquierda.png" width="280px;">
+										          <div class="col-md-4">
+														<p class="lead" style="display: inline;font-size: 16px;color: #42390C;"><br>
+														<b>Características:</b>
+														<br>
+														
+														<b>Textura estándar.</b><br>
+														<b>Fertilizante Orgánico</b><br>
+														<b>para uso agrícola</b><br>
+														<b>Abono orgánico.</b> </p>
 										        </div>
 										       </div>
 									      </div>
 									</div>
 									<div role="tabpanel" class="tab-pane" id="profile">
-												<p>3</p>
-										
+									  <div class="container">
+								               <div class="row">
+								                <div class="col-md-4">
+													<p class="lead" style="display: inline;font-size: 16px;color: #42390C;">
+														<br>Composición cualitativa; varía de acuerdo 
+														a los siguientes conceptos:<br><br>
+
+														&bull; Tipo de cama o base (cascarilla de arroz, cascarilla de  soya, 
+														  pajas de cebada, maíz, trigo y sorgo) y cantidad de cama o 
+														  base utilizada por ave (100 gr. por pollo iniciado).<br><br>
+
+														&bull; Tipo de Piso (Cemento).<br><br>
+
+														&bull; Tipo de comedero y bebedero utilizado (Manual o automático).
+
+													</p>
+										        </div>
+										          <div class="col-md-4">
+														<p class="lead" style="display: inline;font-size: 16px;color: #42390C;">
+														<br>
+													El número de aves por metro cuadrado (en producción intensiva 
+														el rango es  de 14 a 18 aves/m2).<br><br>
+
+														&bull; Edad a venta del pollo (de 49 a 62 días).<br><br>
+
+														&bull; Tipo de control de temperatura y humedad ambientales de las 
+														  casetas de producción del ave  (manual, semiautomático y automático).<br><br>
+
+														&bull; Sus  características físicas apreciables son:
+														  marrón claro a oscuro, olor a amoníaco,  humedad,  
+														  textura suave y de fácil incorporación.
+
+													</p>
+										        </div>
+										       </div>
+									      </div>
 									</div>
 									<div role="tabpanel" class="tab-pane" id="messages">
-										         <p>4</p>
+									   <div class="container">
+								               <div class="row">
+								                <div class="col-md-4">
+												<p class="lead" style="display: inline;font-size: 16px;color: #42390C;"> - <br>El aporte de nutrimentos presenta un costo relativo 
+													  menor a las materias primas tradicionales. <br><br>
+													&bull; Puede sintetizar la proteína a partir del nitrógeno 
+													 (N) no proteico. <br><br>
+													&bull; Su manejo , transporte, procesamiento y 
+													  almacenamiento es factible.<br><br>
+													&bull; Disponibilidad moderada y es constante durante todo el año.<br><br>
+													&bull; No compite con la alimentación humana.<br><br>
+													&bull; No debe contener  anti amoniacales, arsenicales ni sulfato 
+													  de cobre, para poder ser utilizado en el sector agropecuario.
+													</p>
+										        </div>
+										          <div class="col-md-4" style="padding-top: 18px;">
+															<!--<img class="img-responsive" src="images/productos/alimentos/cerdos/CERDOS ENGORDA ETAPA 2.png" alt="CERDOS ENGORDA ETAPA 2.png" width="280px;">-->
+										        </div>
+										       </div>
+									      </div>
 									</div>
 									<div role="tabpanel" class="tab-pane" id="settings">
-												  <p>5</p>
+										<div class="container">
+								               <div class="row">
+								                <div class="col-md-4">
+													<p class="lead" style="display: inline;font-size: 16px;color: #42390C;">
+													<br>La pollinaza tiene una composición química 
+														variable y su mayor valor es como fuente de 
+														proteína y minerales, los principales ingredientes 
+														y rangos aceptables son:<br><br>
+
+														La densidad de aves/m2  esta positivamente relacionada 
+														con el contenido de proteína cruda, debido a la mayor 
+														cantidad de deyecciones, que contienen una alta 
+														concentración de proteína cruda. 
+
+													</p>
+										        </div>
+										          <div class="col-md-4" style="padding-top: 18px;">
+															<img class="img-responsive" src="images/productos/abonos/pollinaza/composición química.png" alt="composición química.png" width="280px;">
+										        </div>
+										       </div>
+									      </div>
 									</div>
 								</div>
 								</div>
                             </div>
                 			<div class="col-md-4 wow fadeInRight">
-                               <div class="col-xxs-12 col-xs-12 col-sm-12 col-md-12 ulockd-fservice-box style2" style="padding-top: 18px;">
+                               <div class="col-xxs-12 col-xs-12 col-sm-12 col-md-12 ulockd-fservice-box style2" style="padding-top: 58px;">
                               		<div class="db-thumb">
-										<img class="img-responsive img-whp3" src="images/fservice/1.png"  alt="1.png">
-										<div class="db-overlayer3"><img src="images/fservice/LOGO.png" width="50px;" alt=""></div>
+                              		<center>
+										<img class="img-responsive " src="images/productos/abonos/pollinaza/IMAGEN 2.png"  alt="IMAGEN 2.png">
+										</center>
 									</div>
                          		</div>
                          </div>
@@ -294,63 +382,98 @@
 												<div style="text-align: center;">
 												<h2>Productos</h2>
 												</div>
-												<p>Muchos comerciantes se valen de una simple descripción de producto estándar proporcionada por una empresa a la que han tercerizado la tarea; recayendo en típicas frases breves, incompletas y que pueden provocar.
-												</p><br>
+												<p style="padding-bottom:130px; ">Contamos con una serie de lineamientos los cuales garantizan la calidad en todos los procesos de producción para la pollinaza y compostas.
+												</p>
 												<!--<a class="btn btn-default ulockd-btn-white hvr-overline-from-center" href="#">Read More</a>-->
 											</div>
 										</div>
 									</div>
 									<div class="col-sm-12 col-md-6 col-lg-9">
 										<div class="about-slider text-left">
+										<div class="item">
+											<div class="ab-thumb">
+												<center>
+														<img class="img-responsive img-whp1"  src="images/productos/abonos/pollinaza/a molida 150px.png"  alt="a molida 150px.png">	
+												</center>								
+											</div>
+												<div class="about-box2 hvr-float-shadow">
+													<div class="ab-details2 text-center">
+														<h4 class="text-thm1">Molida</h4>
+														<p>
+														Excreta directa de granja avícola, que pasa por un proceso de molienda </p>
+														<a class="btn btn-default ulockd-btn-white hvr-overline-from-center" href="prestaciones_de_poliza.html">Ver más</a>
+													</div>
+												</div>
+											</div>
 											<div class="item">
 											<div class="ab-thumb">
 												<center>
-														<img class="img-responsive img-whp1"  src="images/fservice/LOGOPRODUCTOS.png"  alt="2.jpg">	
+														<img class="img-responsive img-whp1"  src="images/productos/abonos/pollinaza/b sernida 150px.png"  alt="b sernida 150px.png">	
 												</center>								
 											</div>
 												<div class="about-box2 hvr-float-shadow">
 													<div class="ab-details2 text-center">
 														<h4 class="text-thm1">Sernida</h4>
-														<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi eaque quis adipisci molestiae dignissimos ex fugit nihil!</p>
+														<p>
+															Excreta directa de granja avícola, con un proceso de molido y sernido </p>
+														<a class="btn btn-default ulockd-btn-white hvr-overline-from-center" href="sernida.php">Ver más</a>
 													</div>
 												</div>
 											</div>
 											<div class="item">
 											<div class="ab-thumb">
 												<center>
-														<img class="img-responsive img-whp1"  src="images/fservice/LOGOPRODUCTOS.png"  alt="2.jpg">	
+														<img class="img-responsive img-whp1"  src="images/productos/abonos/pollinaza/c picada 150px.png"  alt="c picada 150px.png">	
 												</center>								
 											</div>
 												<div class="about-box2 hvr-float-shadow">
 													<div class="ab-details2 text-center">
-														<h4 class="text-thm1"> Picada</h4>
-														<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi eaque quis adipisci molestiae dignissimos ex fugit nihil!</p>
+														<h4 class="text-thm1">Picada</h4>
+														<p>Excreta directa de granja avícola, que pasa por un proceso de picado </p>
+														<a class="btn btn-default ulockd-btn-white hvr-overline-from-center" href="picada.php">Ver más</a>
+
 													</div>
 												</div>
 											</div>
 											<div class="item">
 											<div class="ab-thumb">
 												<center>
-														<img class="img-responsive img-whp1"  src="images/fservice/LOGOPRODUCTOS.png"  alt="2.jpg">	
+														<img class="img-responsive img-whp1"  src="images/productos/abonos/pollinaza/d en greña o entera 150px.png"  alt="d en greña o entera 150px.png">	
 												</center>								
 											</div>
 												<div class="about-box2 hvr-float-shadow">
 													<div class="ab-details2 text-center">
-														<h4 class="text-thm1"> En greña /Entera</h4>
-														<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi eaque quis adipisci molestiae dignissimos ex fugit nihil!</p>
+														<h4 class="text-thm1">En greña / Entera</h4>
+														<p>Excreta directa de granja avícola, comúnmente se utiliza como abono </p>
+														<a class="btn btn-default ulockd-btn-white hvr-overline-from-center" href="en_greña_entera.php">Ver más</a>
 													</div>
 												</div>
 											</div>
 											<div class="item">
 											<div class="ab-thumb">
 												<center>
-														<img class="img-responsive img-whp1"  src="images/fservice/LOGOPRODUCTOS.png"  alt="2.jpg">	
+														<img class="img-responsive img-whp1"  src="images/productos/abonos/pollinaza/e enmelazada 150px.png"  alt="e enmelazada 150px.png">	
 												</center>								
 											</div>
 												<div class="about-box2 hvr-float-shadow">
 													<div class="ab-details2 text-center">
 														<h4 class="text-thm1">Enmelazada</h4>
-														<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi eaque quis adipisci molestiae dignissimos ex fugit nihil!</p>
+														<p>Excreta directa de granja avícola, con procesos de molienda y sernido.</p>
+														<a class="btn btn-default ulockd-btn-white hvr-overline-from-center" href="enmelazada.php">Ver más</a>
+													</div>
+												</div>
+											</div>
+											<div class="item">
+											<div class="ab-thumb">
+												<center>
+														<img class="img-responsive img-whp1"  src="images/productos/abonos/pollinaza/f composta 150px.png"  alt="f composta 150px.png">	
+												</center>								
+											</div>
+												<div class="about-box2 hvr-float-shadow">
+													<div class="ab-details2 text-center">
+														<h4 class="text-thm1">Composta</h4>
+														<p>Excreta directa de gallina reproductora, que pasa por un proceso de fermentación</p>
+														<a class="btn btn-default ulockd-btn-white hvr-overline-from-center" href="composta.php">Ver más</a>
 													</div>
 												</div>
 											</div>
@@ -366,14 +489,14 @@
 	
 	<!--FOOTER -->
 	<!--<img alt="" src="images/home/franja.png" height="150px" width="13000" />-->
-<section class="ulockd-footer big-padding">
+<section class="ulockd-footer ">
 		<div class="container">
 			<div class="row">
 		
 				<div class="col-xxs-8 col-xs-12 col-sm-4 col-md-3" style="padding-top: 70px;">
 					<div class="ulockd-footer-fst-col">
 						<img alt="" src="images/header-logo2.png" class="img-responsive ulockd-footer-log">
-    					<p class="ulockd-ftr-text">Sirequiere informacion a cerca de nuestros avisos de privacidad por favor escribanos a privacidad@agrorsa.com.mx y con gusto le brindaremos la información solicitada en un documento ejecutivo.</p>
+    					<p class="ulockd-ftr-text">Si requiere informacion a cerca de nuestros avisos de privacidad por favor escribanos a privacidad@agrorsa.com.mx y con gusto le brindaremos la información solicitada en un documento ejecutivo.</p>
 						<ul class="list-inline ulockd-footer-font-icon">
 							<li><a href="#"><i class="fa fa-facebook"></i></a></li>
 							<li><a href="#"><i class="fa fa-feed"></i></a></li>
@@ -411,6 +534,7 @@
 			</div>
 		</div>
 	</section>
+
 	<!-- Our CopyRight -->
 	<section id="5" class="ulockd-l2-copy-right" style="background-color: #d1c78d;" >
 		<div class="container">
